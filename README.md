@@ -5,7 +5,7 @@ ___
 
 ### Comments
 > **- `comment`**
-> Anything you write after the dash, will be skipped. Can be useful to make your code more readable.
+> Anything you write after the dash is treated as a comment. Can be useful to make your code more readable.
 
 
 
